@@ -1,0 +1,12 @@
+{
+  "name": "pouchdb-deprecation-warning-repro",
+  "type": "module",
+  "dependencies": {
+    "pouchdb": "^9.0.0",
+    "pouchdb-find": "^9.0.0"
+  },
+  "devDependencies": {
+    "barely-a-dev-server": "^0.6.1",
+    "esbuild": "^0.20.1"
+  }
+}
