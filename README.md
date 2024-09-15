@@ -10,7 +10,7 @@ npm install # note: this is slow!
 node script/dev.js
 ```
 
-Then open http://localhost:1234/ in a broser and observe the following output:
+Then open http://localhost:1234/ in a browser and observe the following output:
 
 ```
 false
